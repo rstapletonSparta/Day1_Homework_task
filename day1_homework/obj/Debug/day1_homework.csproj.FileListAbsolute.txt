@@ -1,0 +1,7 @@
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\bin\Debug\day1_homework.exe.config
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\bin\Debug\day1_homework.exe
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\bin\Debug\day1_homework.pdb
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\obj\Debug\day1_homework.csprojResolveAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\obj\Debug\day1_homework.csproj.CoreCompileInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\obj\Debug\day1_homework.exe
+C:\Users\Ross Stapleton\Engineering45b\week2\day1_homework\day1_homework\obj\Debug\day1_homework.pdb
